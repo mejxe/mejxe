@@ -1,4 +1,4 @@
-Open Source Developer, with a huge passion for Rust Programming Language.
+Open Source Developer
 
 Feel free to make some PR's.
 
